@@ -1,0 +1,14 @@
+d:\KyotoUniversity\CurrencyConverter\bin\Debug\net8.0-windows\Homework.exe
+d:\KyotoUniversity\CurrencyConverter\bin\Debug\net8.0-windows\Homework.deps.json
+d:\KyotoUniversity\CurrencyConverter\bin\Debug\net8.0-windows\Homework.runtimeconfig.json
+d:\KyotoUniversity\CurrencyConverter\bin\Debug\net8.0-windows\Homework.dll
+d:\KyotoUniversity\CurrencyConverter\bin\Debug\net8.0-windows\Homework.pdb
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\Homework.GeneratedMSBuildEditorConfig.editorconfig
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\Homework.AssemblyInfoInputs.cache
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\Homework.AssemblyInfo.cs
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\Homework.csproj.CoreCompileInputs.cache
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\Homework.dll
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\refint\Homework.dll
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\Homework.pdb
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\Homework.genruntimeconfig.cache
+d:\KyotoUniversity\CurrencyConverter\obj\Debug\net8.0-windows\ref\Homework.dll
